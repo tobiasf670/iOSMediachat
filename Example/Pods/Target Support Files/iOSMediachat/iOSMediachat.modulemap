@@ -1,0 +1,6 @@
+framework module iOSMediachat {
+  umbrella header "iOSMediachat-umbrella.h"
+
+  export *
+  module * { export * }
+}

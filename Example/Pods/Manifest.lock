@@ -1,0 +1,16 @@
+PODS:
+  - iOSMediachat (0.1.0)
+
+DEPENDENCIES:
+  - iOSMediachat (from `../`)
+
+EXTERNAL SOURCES:
+  iOSMediachat:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSMediachat: 3850207c1a15a104ef50c6400bc960ab17e1b163
+
+PODFILE CHECKSUM: edf8779656fd0b762331c206fee6fd030211f7a0
+
+COCOAPODS: 1.6.0.beta.2

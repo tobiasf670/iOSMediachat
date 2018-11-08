@@ -1,0 +1,22 @@
+{
+  "name": "iOSMediachat",
+  "version": "0.1.0",
+  "summary": "A short description of iOSMediachat.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tobiasf670/iOSMediachat",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tobiasf670": "tof@amsiq.com"
+  },
+  "source": {
+    "git": "https://github.com/tobiasf670/iOSMediachat.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSMediachat/Classes/**/*"
+}
