@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSMediachat_Example' do
+  pod 'iOSMediachat', :path => '../'
+
+  target 'iOSMediachat_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
